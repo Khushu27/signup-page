@@ -1,4 +1,4 @@
-# Login Page
+# SignUp Page
 A login page layout using HTML and CSS, only.
 
 ## What I learned
